@@ -1,0 +1,3 @@
+Day 1
+No.      |Arrival |Order Time |Finished Cooking Time |Delivery Time |Total Time 
+

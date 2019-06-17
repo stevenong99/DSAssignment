@@ -1,0 +1,73 @@
+Crusty Crab
+3 3
+2 0
+18 2
+Crabby Patty
+20
+5
+Crabby Meal
+20
+10
+Sailors Surprise
+20
+15
+
+Phum Bucket
+1 3
+2 2
+4 1
+Phum Burger
+20
+8
+Phum Fries
+20
+10
+Phum Pie
+20
+15
+
+Burger Krusty
+1 4
+0 1
+4 0
+The Klogger
+20
+14
+Fish Sandwich
+20
+30
+Twisty Lard
+20
+16
+
+Dosneyland
+10 8
+13 5
+5 24
+10 17
+13 13
+Mini Mics
+10
+10
+Boasted Duck
+20
+14
+Premium Hotdogs
+35
+16
+
+Area 76
+5 10
+13 14
+3 22
+1 16
+12 22
+Rayduck
+25
+8
+Green Beef
+20
+6
+Blue Apples
+10
+15

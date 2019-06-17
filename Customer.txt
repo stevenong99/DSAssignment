@@ -1,0 +1,26 @@
+0
+Burger Krusty
+The Klogger
+No sauce
+0 0
+
+13
+Crusty Crab
+Sailors Surprise
+2 5
+
+15
+Crusty Crab
+Crabby Meal
+Extra sauce
+5 11
+
+15
+Phum Bucket
+Phum Pie
+11 22
+
+19
+Crusty Crab
+Crabby Meal
+2 3
